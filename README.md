@@ -10,6 +10,6 @@ O material consiste em um relatório analítico em PDF com base em dados da Rede
 
 ## Autoria
 
-Aluno(a): [Seu Nome Aqui]
+Aluno(a): Diogo Da Silva Rego, Matrícula: 20240045381.
 Professora: Ana Hermínia Andrade e Silva
 
