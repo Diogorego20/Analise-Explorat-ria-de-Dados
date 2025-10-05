@@ -1,4 +1,4 @@
-📊 Análise Exploratória de Dados (AED)
+📊 Análise Exploratória de Dados (AED)/ Pesquisa aplicada a Estatística.
 
 Fundamentos Essenciais para Estatística
 
@@ -58,10 +58,10 @@ Análise Exploratória de Dados (AED) é uma disciplina fundamental no curso de 
 📚 Contexto Acadêmico
 
 •
-Curso: Bacharelado/Licenciatura em Estatística
+Curso: Bacharelado em Estatística
 
 •
-Período: Geralmente 3º ou 4º semestre
+Período: Geralmente 1º semestre
 
 •
 Pré-requisitos: Estatística Descritiva, Probabilidade I
