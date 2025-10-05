@@ -1,4 +1,4 @@
-📊 Análise Exploratória de Dados (AED)/ Pesquisa aplicada a Estatística.
+📊 Análise Exploratória de Dados (AED)/ Pesquisa Aplicada a Estatística.
 
 Fundamentos Essenciais para Estatística
 
